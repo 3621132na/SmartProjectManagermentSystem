@@ -1,0 +1,7 @@
+# .gitignore
+bin/
+obj/
+*.csproj.user
+*.pfx
+appsettings.*.json
+*.log
