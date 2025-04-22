@@ -12,7 +12,7 @@ A microservices-based project management system built with .NET 9.0, ASP.NET Cor
 ## Setup
 1. Install .NET 9.0 SDK.
 2. Run `docker-compose up` to start services.
-3. Access APIs via `http://localhost:5000`.
+3. Access APIs via `https://localhost:7169`.
 
 ## Tech Stack
 - Backend: .NET 9.0, ASP.NET Core
